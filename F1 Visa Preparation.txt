@@ -1,0 +1,41 @@
+1)How did you know about the college?
+One of my closest senior from my ungergrad college had studied their, since then I had a soft corner on this university, I know the university first and then the course
+
+The MPS in Data Science is an industry-recognized credential. The program prepares students with the technical and management skills that they need to succeed in the workplace.An MPS degree is designed to provide you with practical and applied knowledge in your area of study. While traditional master’s programs tend to focus on theory and research, a Master’s of Professional Studies will equip you with specialized skills and hands-on learning opportunities with a focus on career development.
+
+2)Why UMBC?
+
+The coursework and curriculum are perfectly streamlined to help me in my professional growth.UMBC is one of the top univiersities in USA.UMBC is offering different programs for graduate students with highly advanced teaching techniques and the curriculum is well structured and impressive with advanced courses.The world-class infrastructure, renowned faculty under whose guidance I will be moulding myself, the wide range of electives to choose from, wider scope for research, excellent lab facilities all these aspects made me opt for University of Maryland, Baltimore County for my master’s degree program. I am keen on being a part of subjects like Platforms for Big Data Processing, Data Management and Ethical and Legal Issues in Data Science as it will be useful for my career. I would like to be a part of CARTA (Center for Accelerated Real-Time Analytics) research center as they are in alignment with my interest. I would like to be associated with Prof. Aryya Gangopadhyay to get to know more about data mining for health informatics and Prof. Vandana Janeja and learn more about spatio-temporal data mining and would also like to be a part of their research group.UMBC has a student to faculty ratio of 17:1 and it has 38.87% of it's classes with fewer than 20 students. UMBC is accredited by Middle States Comission on Higher Education.
+
+I'm pretty much impressed with the curriculum.It is mandatory to complete a capstone project under the guidance of a professor
+
+3)Why US? Why not other countries?
+
+I'm concerned about education.US education system is 6 years ahead than any other countries in the world and that too US degrees have high value and international reputation.USA is a land of excellence and it's almost everyoe's dream to pursue masters in USA because of it's practical way of learning.
+
+4)Why Data Science?
+
+It has already been declared as the hottest job, data scientist brings in skill sets and knowledge from various backgrounds such as mathematics, statistics, Analytics, modeling, and business acumen. These skills help them to identify patterns which can help the organization to recognize new market opportunities.
+
+5)Why Master's?
+
+To match the fastly growing technology and to sustain in this technosavy world one should evolve themselves by enhancing some skills. I strongly believe that master's degree gives me these skills and adds weight to my profile to get a top role in MNC's.
+
+While doing my undergraduation I found few knowledge gaps to become a data scientist.I want to be on par with the current technologies and work as a data scientist.Also people with master's degree in India are given better opportunities.These are the reasons why I want to do masters degree in data science.
+
+6)What is a master's in Data Science?
+Earning a master’s in data science can help you gain a broad skill set that can be applied to a vast number of tech-related careers, such as data engineering, data architecture, or computer programming and it also helps me to become a data scientist
+
+7)Explain about course curriculum and research areas?
+
+8)What do you want to do with this degree?
+Sir, there is a huge scope for data science, especially in India. As the data is increasing day by day the demand for data scientists is also increasing day by day
+
+9)Tell me about your funding?
+I got an education loan of X L from State Bank of India, my father has savings of X L he has X L in his PF account.These should cover my expenses for entire period of stay in the US.
+
+Data Warehousing: Data warehousing is the secure electronic storage of information by a business or other organization. The goal of data warehousing is to create a trove of historical data that can be retrieved and analyzed to provide useful insight into the organization's operations.
+
+Data Modeling: Data modeling (data modelling) is the process of creating a data model for the data to be stored in a database. 
+
+Database Administration:Database administration is the function of managing and maintaining database management systems (DBMS) software. Mainstream DBMS software such as Oracle, IBM DB2 and Microsoft SQL Server need ongoing management. As such, corporations that use DBMS software often hire specialized information technology personnel called database administrators or DBAs.
